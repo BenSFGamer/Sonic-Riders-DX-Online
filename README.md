@@ -1,8 +1,9 @@
 # Sonic-Riders-DX-Online
 An online version Sonic Riders DX to be played off the web from your browser.
 
+A good start would be the have to first have the games files uploaded here to the repo and continue on from there.
 
-
+----------------
 Credit goes to Extreme Gear Labs. None of this would be possible without them.
 
 Extreme Gear Labs
